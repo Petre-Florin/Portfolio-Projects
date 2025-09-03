@@ -1,3 +1,8 @@
-# Portfolio-Projects
-## My current Projects:
-- Password Manager
+# Project 
+# Password manager
+
+FEATURES :
+- encryption
+- password saves
+- easy to use
+- modular
